@@ -1,0 +1,9 @@
+1. Create MongoDBMap folder
+2. Open Folder in VS CODE
+3. Open Terminal and write npm init
+4. Add tweets.json in folder root
+5. Create index.js file
+6. Run code in index.js
+7. RUN "npm i" in project root
+8. RUN "npm start"
+9. Go to "localhost:3000" on your browser
